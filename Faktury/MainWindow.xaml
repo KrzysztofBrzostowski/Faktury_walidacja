@@ -1,0 +1,47 @@
+﻿<Window x:Class="Faktury.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Faktury"
+        Title="MainWindow" Height="350" Width="525" Language="pl-PL" >
+    <Window.Resources>
+        <Style x:Key="RowStyle" TargetType="DataGridRow">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="true">
+                    <Setter Property="BorderThickness" Value="3"/>
+                    <Setter Property="BorderBrush" Value="Red"/>
+                    <Setter Property="Background" Value="LightPink" />
+                    <Setter Property="ToolTip"
+                            Value="{Binding RelativeSource={RelativeSource Self},
+                                    Path=(Validation.Errors)[0].ErrorContent}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="33,21,0,0" Name="textBlock1" Text="Data wystawienia:" VerticalAlignment="Top" />
+        
+        <DatePicker SelectedDate="{Binding Path=DataSprzedazy}" Height="25" HorizontalAlignment="Left" Margin="161,17,0,0" Name="dtpDataWystawienia" VerticalAlignment="Top" Width="115" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="33,51,0,0" Name="textBlock2" Text="Klient:" VerticalAlignment="Top" />
+        <TextBox Text="{Binding Path=Klient}" Height="23" Margin="161,48,12,0" Name="txtKlient" VerticalAlignment="Top" />
+        
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="33,80,0,0" Name="textBlock3" Text="Łączna wartość faktury:" VerticalAlignment="Top" />
+        <TextBox Text="{Binding Path=WartoscFaktury, Mode=OneWay, StringFormat={}{0:C}}" Height="23" Margin="161,77,12,0" Name="txtWartoscFaktury" VerticalAlignment="Top" />
+
+        <DataGrid RowStyle="{StaticResource RowStyle}" AutoGenerateColumns="False" ItemsSource="{Binding Path=PozycjeFaktury}" Margin="32,109,12,41" Name="grdPozycje">
+            <DataGrid.RowValidationRules>
+                <local:RowValidationRule ValidationStep="UpdatedValue" />
+            </DataGrid.RowValidationRules>
+            
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Produkt"    Binding="{Binding Path=Produkt, ValidatesOnDataErrors=True}" />
+                <DataGridTextColumn Header="Ilosc"      Binding="{Binding Path=Ilosc, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}"/>
+                <DataGridTextColumn Header="Cena"       Binding="{Binding Path=Cena, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True}"/>
+                <DataGridTextColumn Header="Wartosc"    Binding="{Binding Path=Wartosc, Mode=OneWay, StringFormat={}{0:C}}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Dodaj" Height="23" HorizontalAlignment="Left" Margin="32,0,0,12" Name="btDodaj" VerticalAlignment="Bottom" Width="75" Click="btDodaj_Click" />
+        <Button Content="Zmień" Height="23" HorizontalAlignment="Left" Margin="113,0,0,12" Name="btZmien" VerticalAlignment="Bottom" Width="75" Click="btZmien_Click" />
+        <Button Content="Usuń" Height="23" HorizontalAlignment="Left" Margin="194,0,0,12" Name="btUsun" VerticalAlignment="Bottom" Width="75" />
+        <Button Content="Test" Height="23" HorizontalAlignment="Left" Margin="416,276,0,0" Name="btTest" VerticalAlignment="Top" Width="75" Click="btTest_Click" />
+    </Grid>
+</Window>

@@ -1,0 +1,86 @@
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\bin\Debug\Faktury.exe
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\bin\Debug\Faktury.pdb
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\MainWindow.baml
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\App.g.cs
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\Faktury_MarkupCompile.cache
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\Faktury.g.resources
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\Faktury.Properties.Resources.resources
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\Faktury.exe
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\Faktury.pdb
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\View\OknoPozycjiFaktury.baml
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\View\OknoPozycjiFaktury.g.cs
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tomasz\Documents\Visual Studio 2010\Projects\WPF_2011-11-21\Faktury\Faktury\obj\x86\Debug\Faktury_MarkupCompile.lref
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\Faktury.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\Faktury.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\bin\Debug\Faktury.exe
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\bin\Debug\Faktury.pdb
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\View\OknoPozycjiFaktury.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\View\OknoPozycjiFaktury.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\Faktury_MarkupCompile.cache
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\Faktury_MarkupCompile.lref
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\Faktury.g.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\Faktury.Properties.Resources.resources
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\bierzace_IPPT\WPF_KCP\_WPF_2011-11-21_od_TT\Faktury\Faktury\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.exe
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.pdb
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\bin\Debug\Faktury.exe
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\bin\Debug\Faktury.pdb
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\View\OknoPozycjiFaktury.baml
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\View\OknoPozycjiFaktury.g.cs
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury_MarkupCompile.cache
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury_MarkupCompile.lref
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.g.resources
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.Properties.Resources.resources
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ela\Desktop\SMT_Software\Przyklady_do_kalendarza\Faktury_walidacja\Faktury\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.exe
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.pdb
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\bin\Debug\Faktury.exe
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\bin\Debug\Faktury.pdb
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\View\OknoPozycjiFaktury.baml
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\View\OknoPozycjiFaktury.g.cs
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\App.g.cs
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury_MarkupCompile.cache
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury_MarkupCompile.lref
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\MainWindow.baml
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.g.resources
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.Properties.Resources.resources
+C:\Users\Ela\Desktop\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.csproj.GenerateResource.Cache
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.exe
+D:\poprzednie_IPPT\WPF_Cs_Nauka_ProjektyTestowe\Moje_Moje\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.pdb
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.exe
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.pdb
+E:\Faktury_walidacja\Faktury\bin\Debug\Faktury.exe
+E:\Faktury_walidacja\Faktury\bin\Debug\Faktury.pdb
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.csprojResolveAssemblyReference.cache
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\View\OknoPozycjiFaktury.baml
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\MainWindow.g.cs
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\View\OknoPozycjiFaktury.g.cs
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\App.g.cs
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury_MarkupCompile.cache
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury_MarkupCompile.lref
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\MainWindow.baml
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.g.resources
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.Properties.Resources.resources
+E:\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.csproj.GenerateResource.Cache
+E:\GitHub\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.exe
+E:\GitHub\Faktury_walidacja\Faktury\obj\x86\Debug\Faktury.pdb

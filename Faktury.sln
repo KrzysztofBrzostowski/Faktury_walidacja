@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faktury", "Faktury\Faktury.csproj", "{98C1C442-1CBE-4F0E-A3C0-27E54BE810F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98C1C442-1CBE-4F0E-A3C0-27E54BE810F4}.Debug|x86.ActiveCfg = Debug|x86
+		{98C1C442-1CBE-4F0E-A3C0-27E54BE810F4}.Debug|x86.Build.0 = Debug|x86
+		{98C1C442-1CBE-4F0E-A3C0-27E54BE810F4}.Release|x86.ActiveCfg = Release|x86
+		{98C1C442-1CBE-4F0E-A3C0-27E54BE810F4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
